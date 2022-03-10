@@ -1,0 +1,56 @@
+ 
+h1{
+   font-size: 60px;
+    text-align: center;
+}
+
+body{
+
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ; 
+}
+ 
+
+.p{
+   background-color:yellow; 
+    color: blueviolet;
+    margin: 20px;
+    padding: 10px;
+    text-align: justify; 
+
+
+
+}
+ 
+h3{
+    text-align: center;
+
+    background-color: cyan;
+    color: rgb(240, 16, 240);
+}
+
+
+section{
+ display: flex;
+}
+
+.d{
+    padding: 20px 10px;
+    margin: 10px 10px;
+ 
+    width: 60%;
+}
+.d img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
